@@ -9,8 +9,7 @@ PCB and embedded hardware I have designed end to end — schematic, layout and f
 | Project | What it is | Status |
 | --- | --- | --- |
 | [Fuel-Level Meter](fuel-level-meter/) | Capacitive fuel-level sensor with an RS-485 display board | v1.0 |
-| Flyback SMPS | Flyback switch-mode power supply | coming soon |
-| Multi-channel LED controller | High-current multi-channel LED driver board | coming soon |
+| Multi-channel LED controller | High-current multi-channel LED driver board | v1.0 |
 
 ## About
 
