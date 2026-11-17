@@ -20,4 +20,4 @@ A gallery of additional boards I have designed. These are shown as renders only 
 
 | | |
 | --- | --- |
-| ![Project Three – view 1](docs/project-three-1.png) |
+| ![Project Three](docs/project-three.png) |
