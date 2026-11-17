@@ -10,6 +10,7 @@ PCB and embedded hardware I have designed end to end — schematic, layout and f
 | --- | --- | --- |
 | [Fuel-Level Meter](fuel-level-meter/) | Capacitive fuel-level sensor with an RS-485 display board | v1.0 |
 | Multi-channel LED controller | High-current multi-channel LED driver board | v1.0 |
+| Other Projects Gallery | Renders of additional boards, shared without technical detail | - |
 
 ## About
 
