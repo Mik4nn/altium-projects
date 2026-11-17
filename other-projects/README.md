@@ -10,14 +10,14 @@ A gallery of additional boards I have designed. These are shown as renders only 
 | --- | --- |
 | ![Project One – view 1](docs/project-one-1.png) | ![Project One – view 2](docs/project-one-2.png) |
 
-## Project Two
+## Power Supply Controller
 
 | | |
 | --- | --- |
 | ![Project Two – view 1](docs/project-two-1.png) | ![Project Two – view 2](docs/project-two-2.png) |
 
-## Project Three
+## USB to Uart (my first PCB)
 
 | | |
 | --- | --- |
-| ![Project Three – view 1](docs/project-three-1.png) | ![Project Three – view 2](docs/project-three-2.png) |
+| ![Project Three – view 1](docs/project-three-1.png) |
